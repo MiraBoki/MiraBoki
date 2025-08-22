@@ -36,9 +36,6 @@
   <div>
      <a href="https://mohinga.onrender.com" target="_blank">mohinga</a>
   </div>
-  
-  
-  
- 
+
 </div>
 
