@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **ReactJS,typescript,es6,python,mongoDB**
 
 - 📫 How to reach me **okakarphyo625@gmail.com**
+- Linkedin Account www.linkedin.com/in/
+okakar-phyo-1418602a0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
