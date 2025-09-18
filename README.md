@@ -38,7 +38,7 @@
      <a href="https://mohinga.onrender.com">mohinga</a>
   </div>
   <div>
-     <a href="https://codetestproject.onrender.com">mohinga</a>
+     <a href="https://codetestproject.onrender.com">codetestproject</a>
   </div>
 
 </div>
