@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm OakarPhyo (MiraBoki)</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **ReactJS,typescript,es6,python,mongoDB**
+- 🌱 I’m currently learning **typescript,mongoDB**
 
 - 📫 How to reach me **okakarphyo625@gmail.com**
 - Linkedin Account https://www.linkedin.com/in/okakar-phyo-1418602a0/
