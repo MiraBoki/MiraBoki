@@ -18,9 +18,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miraboki&show_icons=true&locale=en" alt="miraboki" /></p>
 
 <div>
-  <h3>You can easily check out my projects design through these links , I deployed with Render</h3>
+  <h3>You can easily check out my projects design through these links</h3>
   <div>
     <a href="https://pttprojectwithnewversionbootstrap.onrender.com">pttprojectwithnewversionbootstrap</a>
+  </div>
+  <div>
+    <a href="https://reactjslandin.netlify.app">reactjsproject1</a>
   </div>
   <div>
     <a href="https://pizzafenzy.onrender.com">pizzafenzy</a>
