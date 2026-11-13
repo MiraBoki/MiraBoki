@@ -20,6 +20,9 @@
 <div>
   <h3>You can easily check out my projects design through these links</h3>
   <div>
+    <a href="https://gameprojectone1.netlify.app">gameproject1</a>
+  </div>
+  <div>
     <a href="https://admindashboardone1.netlify.app">admindashboardpj1</a>
   </div>
   <div>
